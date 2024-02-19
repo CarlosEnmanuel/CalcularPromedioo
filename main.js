@@ -26,7 +26,7 @@ function Promedio(){
   }else{
     alert("Ingresar notas comprendidas entre 0-10")
   }
-  
+  //ok
 
  
 
